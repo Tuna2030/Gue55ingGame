@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ class\ is\ for\ creating\ players\ for\ the\ game\ class.\r\n\ \r\n\ @author\ Tuna\ Rezaiazar\r\n\ @version\ 28.03.2018\r\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment1.text=\r\n\ Constructor\ to\ create\ a\ new\ player\ object.\r\n
+comment2.params=
+comment2.target=int\ getGuess()
+comment2.text=\r\n\ Accessor\ method\ to\ player\ guess\ field.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Accessor\ method\ to\ player\ name\ field.\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Accessor\ method\ to\ player\ score\ field.\r\n
+comment5.params=guess
+comment5.target=void\ setGuess(int)
+comment5.text=\r\n\ Mutator\ method\ to\ set\ player\ guess\ field.\r\n
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment6.text=\r\n\ Mutator\ method\ to\ set\ player\ name\ field.\r\n
+comment7.params=score
+comment7.target=void\ setScore(int)
+comment7.text=\r\n\ Mutator\ method\ to\ set\ player\ score\ field.\r\n
+numComments=8

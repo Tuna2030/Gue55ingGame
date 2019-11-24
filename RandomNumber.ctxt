@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\r\n\ This\ class\ is\ for\ creating\ random\ number\ for\ the\ game\ class.\r\n\ \r\n\ @author\ Tuna\ Rezaiazar\r\n\ @version\ 28.03.2018\r\n
+comment1.params=
+comment1.target=RandomNumber()
+comment1.text=\r\n\ Constructor\ to\ create\ new\ RandomNumber\ object.\r\n
+comment2.params=min\ max
+comment2.target=int\ getRandom(int,\ int)
+comment2.text=\r\n\ Method\ to\ create\ and\ return\ a\ random\ number\ between\ given\ integer\ parameters.\r\n
+numComments=3
